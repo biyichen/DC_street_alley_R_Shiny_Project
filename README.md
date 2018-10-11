@@ -1,4 +1,7 @@
 # DC_street_alley_R_Shiny_Project
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=L52ZmRdXt30" target="_blank"><img src="http://img.youtube.com/vi/L52ZmRdXt30/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 #### I looked at multiple questions to do descriptive analysis of the 311 Service Requests in the last 30 days for street and alley cleaning requests on public property in WASHINGTON DC dataset. I discussed the available variables and came up with the following questions:
 #### 1.	What SERVICE CODE DESCRIPTION in where and at what status of investigations?
 #### 2.	If there is INSPECTION FLAG exist and its locations and at what status of investigations?
